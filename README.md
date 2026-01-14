@@ -33,5 +33,5 @@ Hyperparameters were optimized using **Optuna**.
 ```bash
 docker-compose up --build
 ```
-
-*Flower API localhost:5555*
+```
+Flower API localhost:5555
