@@ -2,7 +2,7 @@ from worker.connect import get_connection
 
 def query_form(data_dict:dict):
     """
-    Формирование запроса.
+    Form query.
     """
 
     if not data_dict:
