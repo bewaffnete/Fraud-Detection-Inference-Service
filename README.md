@@ -5,8 +5,8 @@ Built with **Celery** + **RabbitMQ** as message broker, results and transaction 
 Uses **XGBoost** model with strong class imbalance handling via **SMOTE**.  
 Hyperparameters were optimized using **Optuna**.
 <p align="center">
-  <img src="static/new_data_conf_matrix.png" alt="confusion matrix" width="60%" />
-  <img src="static/feature_importance_2.png" alt="feature importance" width="60%" />
+  <img src="static/new_data_conf_matrix.png" alt="confusion matrix" width="100%" />
+  <img src="static/feature_importance_2.png" alt="feature importance" width="100%" />
 </p>
 <!-- ![new_data_conf_matrix.png](static/new_data_conf_matrix.png) -->
 <!-- <p align="center"> -->
