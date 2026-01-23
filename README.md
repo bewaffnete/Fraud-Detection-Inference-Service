@@ -4,7 +4,9 @@ Real-time fraud detection inference service.
 Built with **Celery** + **RabbitMQ** as message broker, results and transaction data stored in **PostgreSQL**.  
 Uses **XGBoost** model with strong class imbalance handling via **SMOTE**.  
 Hyperparameters were optimized using **Optuna**.
-
+<p align="center">
+  <![new_data_conf_matrix.png](static/new_data_conf_matrix.png)/>
+</p>
 ![new_data_conf_matrix.png](static/new_data_conf_matrix.png)
 ![feature_importance_2.png](static/feature_importance_2.png)
 
