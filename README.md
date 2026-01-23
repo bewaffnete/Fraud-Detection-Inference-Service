@@ -8,11 +8,6 @@ Hyperparameters were optimized using **Optuna**.
   <img src="static/new_data_conf_matrix.png" alt="confusion matrix" width="100%" />
   <img src="static/feature_importance_2.png" alt="feature importance" width="100%" />
 </p>
-<!-- ![new_data_conf_matrix.png](static/new_data_conf_matrix.png) -->
-<!-- <p align="center"> -->
-  <!-- <img src="static/feature_importance_2.png" alt="feature importance" width="60%" /> -->
-<!-- </p> -->
-<!-- ![feature_importance_2.png](static/feature_importance_2.png) -->
 
 ## Architecture
 
